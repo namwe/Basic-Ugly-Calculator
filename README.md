@@ -12,6 +12,7 @@ This is my first ever android application. Everything made in Main.
 
 # Known restrictions and other issues
 *Calculator only supports singular numbers, division, addition, subtraction and multiplication
+
 *Calculator will crash when pressing the TextView with the text "="
 
 
